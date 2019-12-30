@@ -1,6 +1,6 @@
 ## Data-Analysis-and-Classification<br>
 
-**Python Project<br>
+**Python Project**<br>
 
 > An algortihm to classify movies respect to their genre/_"rasa"_<br>
 > Based on local created database.<br>
